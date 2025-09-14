@@ -1,5 +1,5 @@
 
-app_name = "RailSahayak"
+app_name = "RailSahyak"
 app_title = "RailSahayak"
 app_publisher = "RailSahayak"
 app_description = "Custom Frappe app"
